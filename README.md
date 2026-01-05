@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Son Tran</h1>
-<h3 align="center">I'm a cybersecurity enthusiast and currently a student of University Of Science - HCM, from Vietnam.</h3>
+<h3 align="center">I'm currently a student of University Of Science - HCM, from Vietnam.</h3>
 
 <h3 align="left">📨 Connect with me: <a href="https://www.linkedin.com/in/sonchan/">Linkedin</a></h3>
 
