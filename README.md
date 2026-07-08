@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Bui Thai Son</h1>
 
 <h3 align="center">
-Software Engineer | Java Backend • Full-Stack • Cloud
+Software Engineer | Java, Python Backend • Full-Stack • Cloud
 </h3>
 
 <p align="center">
